@@ -1,0 +1,8 @@
+{
+  "/components/page": "app/components/page.js",
+  "/ecu/page": "app/ecu/page.js",
+  "/fault-codes/page": "app/fault-codes/page.js",
+  "/page": "app/page.js",
+  "/translator/page": "app/translator/page.js",
+  "/wiring/page": "app/wiring/page.js"
+}
